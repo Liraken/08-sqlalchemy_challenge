@@ -1,25 +1,9 @@
-# sql-challenge
+# sqlalchemy_challenge
 
-- meow 
-
-- meow
-
-- meow
-
-- meow
-
-- meow
-
-## meowmeowmeowmeowmeowmeow
-meowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeow
-meowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeow
-meowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeow
-
-## File Locations
-- meow
-- meow
-- meow
-- meow
+## File Location
+- In the main directory you can find climate_starter you can find "sql_starter" which uses the starter files in Resourses to query and create a few charts and "app.py" which uses flask to creat a basic web site.
+- In "Resources" you can find hawaii.sqlite as well as the csv hawaii_measurements and hawaii_stations. These are used to query
+- In "refrences" you can find multiple repos from "jzhao0626" , robmatelyan and tristan1994 who I refrenced to complete this assignment. As well as a few in class assignments
 
 
 ## Instructions
