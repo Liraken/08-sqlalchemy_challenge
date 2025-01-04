@@ -90,7 +90,7 @@ You’ll need to use functions such as func.min, func.max, and func.avg in your 
 
 * Plot the results as a histogram with bins=12, as the following image shows:
 
-![station-histogram](stations-histogram.png)
+![station-histogram](Images/station-histogram.png)
 
 5. Close your session.
 
